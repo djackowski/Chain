@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chain.iml" filepath="$PROJECT_DIR$/.idea/modules/Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Chain_main.iml" group="Chain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Chain_test.iml" group="Chain" />
+    </modules>
+  </component>
+</project>
